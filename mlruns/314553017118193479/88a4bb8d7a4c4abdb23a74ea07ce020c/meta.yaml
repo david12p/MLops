@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/314553017118193479/88a4bb8d7a4c4abdb23a74ea07ce020c/artifacts
+end_time: 1708628979413
+entry_point_name: ''
+experiment_id: '314553017118193479'
+lifecycle_stage: active
+run_id: 88a4bb8d7a4c4abdb23a74ea07ce020c
+run_name: classy-worm-538
+run_uuid: 88a4bb8d7a4c4abdb23a74ea07ce020c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708628979398
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/310277664517904280
+creation_time: 1708628322696
+experiment_id: '310277664517904280'
+last_update_time: 1708628370222
+lifecycle_stage: deleted
+name: titanic-spaceship
+tags: {}
